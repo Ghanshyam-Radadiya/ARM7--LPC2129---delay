@@ -1,0 +1,7 @@
+Dependencies for Project 'timer', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x4F5858F0)(--cpu ARM7TDMI -g --apcs=interwork -I "E:\ARM KEIL\ARM\RV31\INC" -I "E:\ARM KEIL\ARM\CMSIS\Include" -I "E:\ARM KEIL\ARM\Inc\Philips" --list "Startup.lst" --xref -o "Startup.o" --depend "Startup.d")
+F (.\p1.c)(0x67F3BE67)(-c --cpu ARM7TDMI -g -O0 --apcs=interwork -I "E:\ARM KEIL\ARM\RV31\INC" -I "E:\ARM KEIL\ARM\CMSIS\Include" -I "E:\ARM KEIL\ARM\Inc\Philips" -o "p1.o" --omf_browse "p1.crf" --depend "p1.d")
+I (E:\ARM KEIL\ARM\Inc\Philips\lpc21xx.h)(0x4F585AA4)
+I (hedar.h)(0x67F3BB53)
+F (.\delay.c)(0x67F3BCB9)(-c --cpu ARM7TDMI -g -O0 --apcs=interwork -I "E:\ARM KEIL\ARM\RV31\INC" -I "E:\ARM KEIL\ARM\CMSIS\Include" -I "E:\ARM KEIL\ARM\Inc\Philips" -o "delay.o" --omf_browse "delay.crf" --depend "delay.d")
+I (E:\ARM KEIL\ARM\Inc\Philips\lpc21xx.h)(0x4F585AA4)
